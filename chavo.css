@@ -1,0 +1,19 @@
+body{
+    background-color: cadetblue;
+}
+grid{
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: blanchedalmond;
+
+}
+#helou{
+    display:none
+}
+#questions{
+    display:none
+}
+#results{
+    display:none
+}
